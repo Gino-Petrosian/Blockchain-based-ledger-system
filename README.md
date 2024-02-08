@@ -46,6 +46,8 @@ timestamp str	~ Time stamp of the blockis addition to the blockchain.
 
 hash_blockmethod  ~ Method to compute the hash of the block.
 
+## Test Transactions
+
 Below you will find several examples of test transactions, Block Inspector data, as well as chain Validations
 ![Block_1](https://github.com/Gino-Petrosian/Blockchain-based-ledger-system/assets/136781611/2cde52e1-2aea-4559-b22c-84a2b97010ab)
 ![Block_2](https://github.com/Gino-Petrosian/Blockchain-based-ledger-system/assets/136781611/dacb7089-5e63-44e1-9741-41de133bbffb)
@@ -54,6 +56,8 @@ Below you will find several examples of test transactions, Block Inspector data,
 ![Block_5](https://github.com/Gino-Petrosian/Blockchain-based-ledger-system/assets/136781611/4f9aac37-0b35-4f7c-baae-8ac488478017)
 ![Block_6](https://github.com/Gino-Petrosian/Blockchain-based-ledger-system/assets/136781611/53b02566-4a5b-43de-9627-7ca032703650)
 ![Block_7](https://github.com/Gino-Petrosian/Blockchain-based-ledger-system/assets/136781611/f4c1f583-a90e-43c9-9487-51a7cd43896a)
+
+## Additional Resource
 
 In the 'Blockchain transaction web application' folder, you will find a excel spreadsheet showing the blockchain ledger.
 
